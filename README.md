@@ -1,0 +1,2 @@
+# jonnyGantengbangetom
+Script for colab
